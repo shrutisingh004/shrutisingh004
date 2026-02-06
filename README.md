@@ -13,11 +13,6 @@ I build applied machine learning systems, computer vision applications, and LLM-
 - **Frameworks:** Flask, Streamlit
 - **Tools:** Git, GitHub, AWS, Azure
 
-### 📌 Featured Projects
-- Email Productivity Agent (LLMs + Flask + Streamlit)
-- Virtual Mouse using Computer Vision
-- PDF Analyzer Chatbot using LangChain
-
 📫 **Reach me:**  
 Email: shru2004@gmail.com  
 LinkedIn: https://www.linkedin.com/in/shrutisingh004
