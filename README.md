@@ -6,12 +6,12 @@
 I build applied machine learning systems, computer vision applications, and LLM-powered tools with a focus on real-world usability.
 
 ### 🔧 Tech Stack
-- **Languages:** Python, C++, Java
-- **ML/DL:** scikit-learn, TensorFlow, PyTorch
-- **CV:** OpenCV, MediaPipe
-- **LLMs:** OpenAI API, LangChain
-- **Frameworks:** Flask, Streamlit
-- **Tools:** Git, GitHub, AWS, Azure
+**Languages:** Python, SQL, Java, C++  
+**Databases:** MySQL  
+**Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib  
+**Generative AI & NLP:** OpenAI API, LangChain, Prompt Engineering, LLMs  
+**Backend & Apps:** Flask, Streamlit, REST APIs  
+**Tools & Platforms:** Git, GitHub, Google Colab, VS Code, AWS
 
 📫 **Reach me:**  
 Email: shru2004@gmail.com  
