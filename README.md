@@ -6,7 +6,7 @@
 I build applied machine learning systems, computer vision applications, and LLM-powered tools with a focus on real-world usability.
 
 ### 🔧 Tech Stack
-- **Languages:** Python, SQL, Java, C++  
+- **Languages:** Python, Java, C++, C, HTML, CSS, Javascript  
 - **Databases:** MySQL, Apache Cassandra 
 - **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib  
 - **Generative AI & NLP:** OpenAI API, LangChain, Prompt Engineering, LLMs  
