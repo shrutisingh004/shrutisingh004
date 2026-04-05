@@ -7,7 +7,7 @@ I build applied machine learning systems, computer vision applications, and LLM-
 
 ### 🔧 Tech Stack
 - **Languages:** Python, SQL, Java, C++  
-- **Databases:** SQL, MySQL  
+- **Databases:** MySQL, Apache Cassandra 
 - **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib  
 - **Generative AI & NLP:** OpenAI API, LangChain, Prompt Engineering, LLMs  
 - **Backend & Apps:** Flask, Streamlit, REST APIs  
