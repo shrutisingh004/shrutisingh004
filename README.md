@@ -7,11 +7,10 @@ I build applied machine learning systems, computer vision applications, and LLM-
 
 ### 🔧 Tech Stack
 - **Languages:** Python, Java, C++, C, HTML, CSS, Javascript  
-- **Databases:** MySQL, Apache Cassandra 
-- **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib  
-- **Generative AI & NLP:** OpenAI API, LangChain, Prompt Engineering, LLMs  
-- **Backend & Apps:** Flask, Streamlit, REST APIs  
-- **Tools & Platforms:** Git, GitHub, Google Colab, VS Code, AWS
+- **Databases & Cloud:** MySQL, Apache Cassandra, AWS, Oracle Cloud, Azure
+- **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib, LangChain, Hugging Face, OpenAI  
+- **Backend & Apps:** Flask, Streamlit, REST APIs, Gradio  
+- **Tools & Platforms:** Git, GitHub, Google Colab, VS Code, Vertex AI
 
 📫 **Reach me:**  
 Email: shru2004@gmail.com  
