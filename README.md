@@ -3,7 +3,7 @@
 🎓 B.Tech CSE (AI & ML) @ Vellore Institute of Technology, Bhopal  
 🤖 AI / ML Engineer | LLMs | Generative AI 
 
-I build applied machine learning systems, computer vision applications, and LLM-powered tools with a focus on real-world usability.
+Final-year CSE (AI/ML) student at VIT Bhopal, driven by curiosity to build intelligent systems that enhance human productivity. I create real-world applications using LLMs, NLP, and machine learning, and actively explore innovations in the AI ecosystem. Passionate about ethical AI, real-world applications, and exploring innovations that enhance human productivity.
 
 ### 🔧 Tech Stack
 - **Languages:** Python, Java, C++, C, HTML, CSS, Javascript  
