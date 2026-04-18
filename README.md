@@ -8,7 +8,7 @@ Final-year CSE (AI/ML) student at VIT Bhopal, driven by curiosity to build intel
 ### 🔧 Tech Stack
 - **Languages:** Python, Java, C++, C, HTML, CSS, Javascript  
 - **Databases & Cloud:** MySQL, Apache Cassandra, AWS, Oracle Cloud, Azure
-- **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib, LangChain, Hugging Face, OpenAI  
+- **Machine Learning & Data Science:** NumPy, Pandas, scikit-learn, Matplotlib, LangChain, LangGraph, Hugging Face 
 - **Backend & Apps:** Flask, Streamlit, REST APIs, Gradio  
 - **Tools & Platforms:** Git, GitHub, Google Colab, VS Code, Vertex AI
 
